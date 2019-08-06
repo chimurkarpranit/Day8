@@ -1,0 +1,72 @@
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Day 8.dll.config
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Day 8.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Day 8.pdb
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\csc.exe
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\csc.exe.config
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\csc.rsp
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\csi.exe
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\csi.exe.config
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\csi.rsp
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.AppContext.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Collections.Immutable.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Console.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.IO.Compression.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.IO.FileSystem.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.IO.Pipes.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.AccessControl.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.Claims.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.ValueTuple.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Xml.XPath.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\vbc.exe
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\vbc.exe.config
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\vbc.rsp
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\VBCSCompiler.exe
+D:\DOTNET\Basic ASP.NET\Day 8\bin\roslyn\VBCSCompiler.exe.config
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Antlr3.Runtime.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\AspNet.ScriptManager.bootstrap.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\AspNet.ScriptManager.jQuery.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.ScriptManager.WebForms.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.Web.Infrastructure.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\MySql.Data.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Newtonsoft.Json.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\System.Web.Optimization.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\WebGrease.dll
+D:\DOTNET\Basic ASP.NET\Day 8\bin\System.Web.Optimization.xml
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Newtonsoft.Json.xml
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Antlr3.Runtime.pdb
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\DOTNET\Basic ASP.NET\Day 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOTNET\Basic ASP.NET\Day 8\obj\Debug\Day 8.csprojAssemblyReference.cache
+D:\DOTNET\Basic ASP.NET\Day 8\obj\Debug\Day 8.csproj.CoreCompileInputs.cache
+D:\DOTNET\Basic ASP.NET\Day 8\obj\Debug\Day 8.csproj.CopyComplete
+D:\DOTNET\Basic ASP.NET\Day 8\obj\Debug\Day 8.dll
+D:\DOTNET\Basic ASP.NET\Day 8\obj\Debug\Day 8.pdb
